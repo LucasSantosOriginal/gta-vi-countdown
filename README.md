@@ -1,9 +1,13 @@
-# GTA VI Countdown
+<h1 align="center">
+  <a href="https://lucassantosoriginal.github.io/gta-vi-countdown/">
+    GTA VI Countdown
+  </a>
+</h1>
 
-## Live Demo
+<p align="center">
+  Real-time countdown website for the release of GTA VI.
+</p>
 
-https://lucassantosoriginal.github.io/gta-vi-countdown/
-
-Real-time countdown website for the release of GTA VI.
-
-If you like this project, consider giving it a star.
+<p align="center">
+  If you like this project, consider giving it a star.
+</p>
